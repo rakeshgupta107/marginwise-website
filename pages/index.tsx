@@ -4,12 +4,12 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Marginly – Smart Margin Optimisation</title>
+        <title>MarginWise – Smart Margin Optimisation</title>
       </Head>
 
       <main className="min-h-screen bg-gray-50 text-gray-800">
         <nav className="flex items-center justify-between p-6 border-b bg-white shadow-sm">
-          <div className="text-xl font-bold text-indigo-600">Marginly</div>
+          <div className="text-xl font-bold text-indigo-600">MarginWise</div>
           <ul className="flex gap-6 text-sm font-medium">
             <li><a href="#" className="hover:text-indigo-600">Home</a></li>
             <li><a href="#" className="hover:text-indigo-600">Features</a></li>
